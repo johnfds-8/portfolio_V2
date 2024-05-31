@@ -17,8 +17,7 @@ const About = () => {
             <p className="secondaryText">
               Experienced Frontend Developer proficient in HTML, CSS,
               JavaScript, and React, Redux Toolkit, excelling in crafting intuitive user
-              interfaces. Actively broadening skill set to encompass backend
-              technologies, including Node.js, Express.js, and MongoDB.
+              interfaces.
               Committed to ongoing learning and professional development for a
               well-rounded expertise in web development.
             </p>
