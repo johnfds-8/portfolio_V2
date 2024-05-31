@@ -16,7 +16,7 @@ const Header = () => {
       <header className="h-container innerWidth">
         <nav className="nav ">
           <div className="nav-logo">
-            <img src="./text.png"  className="logo" alt="" />
+            <img src="./text.jpg"  className="logo" alt="" />
           </div>
           <OutsideClickHandler onOutsideClick={() => SetOpenMenu(false)}>
             <ul className="nav-items " style={getStyle(OpenMenu)}>
