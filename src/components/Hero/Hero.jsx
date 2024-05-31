@@ -9,11 +9,11 @@ const Hero = () => {
           {/* hero left side */}
           <div className="hero-left innerWidth">
             <div className="hero-title primaryText">
-              <h1>Fullstack Developer</h1>
+              <h1>Frontend Developer</h1>
             </div>
             <div className="hero-intro ">
               <p className="secondaryText">
-                Hi, I'm John Fernandis. A passionate fullstack developer.
+                Hi, I'm John Fernandis. A passionate frontend developer.
               </p>
             </div>
             <div className="social-links">
