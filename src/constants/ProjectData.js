@@ -30,18 +30,18 @@ export const projectData = [
   },
   {
     id: 1,
-    title: "Currency-Converter ",
+    title: "Singer portfolio ",
     image: "./Currency-Converter.png",
 
     projectDescription:
       "A simple Currency-Converter using API and JavaScript and CSS.",
     stack: [
-      { id: 1, tech: "JavaScript" },
-      { id: 2, tech: "CSS" },
+      { id: 1, tech: "React" },
+      { id: 2, tech: "React Router" },
     ],
-    liveUrl: "https://currencyconverter-john.netlify.app/",
+    liveUrl: "https://mr-fernandes.vercel.app/",
     githubUrl:
-      "https://github.com/johnfernandis1999/currency-converter",
+      "https://mr-fernandes.vercel.app/",
   },
 ];
 
