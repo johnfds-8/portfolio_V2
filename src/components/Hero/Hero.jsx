@@ -1,4 +1,3 @@
-import React from "react";
 import "./Hero.css";
 
 const Hero = () => {
@@ -13,22 +12,23 @@ const Hero = () => {
             </div>
             <div className="hero-intro ">
               <p className="secondaryText">
-                Hi, I'm John Fernandis. A passionate frontend developer.
+                Hi, Im John Fernandis. A passionate frontend developer.
               </p>
             </div>
             <div className="social-links">
-              <a href="https://github.com/johnfernandis1999" target="_blank">
+
+              <a href="https://github.com/johnfernandis1999" >
                 <img src="./github.svg" alt="github" width={30} />
               </a>
+
               <a
                 href="https://www.linkedin.com/in/john-fernandis/"
-                target="_blank"
+              
               >
                 <img src="./linkedin.svg" alt="linkedin" width={30} />
               </a>
               <a
                 href="https://x.com/John_fernandis_"
-                target="_blank"
               >
                 <img src="./twitter.svg" alt="twitter" width={30} />
               </a>
