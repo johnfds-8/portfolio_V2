@@ -42,6 +42,22 @@ export const projectData = [
     liveUrl: "https://admin-panel-navy-rho.vercel.app/",
     githubUrl: "https://github.com/johnfds-8/admin-panel.git",
   },
+{
+    id: 2,
+    title: "Interactive Dashboard",
+    image: "./Currency-Converter.png",
+
+    projectDescription:
+      "Developed a responsive portfolio website for a singer.Implemented seamless navigation with React Router.Created custom components for biography, discography, events, and media sections.Integrated contact forms and social media links.Optimized for mobile devices and cross-browser compatibility.",
+    stack: [
+      { id: 1, tech: "React" },
+      { id: 2, tech: "React Router" },
+    ],
+    liveUrl: "https://mr-fernandes.vercel.app/",
+    githubUrl:
+      "https://mr-fernandes.vercel.app/",
+  },
+
 ];
 
 
