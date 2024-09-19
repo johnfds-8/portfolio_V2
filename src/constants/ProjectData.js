@@ -1,6 +1,6 @@
 export const projectData = [
   {
-    id: 6,
+    id: 1,
     title: "Gemini Clone ",
     image: "./Gemini.png",
 
@@ -14,7 +14,7 @@ export const projectData = [
     githubUrl: "https://github.com/johnfernandis1999/gemini",
   },
   {
-    id: 1,
+    id: 2,
     title: "Restaurant Website ",
     image: "./Restaurant.png",
 
@@ -25,23 +25,22 @@ export const projectData = [
       { id: 2, tech: "CSS" },
     ],
     liveUrl: "https://john-rasoighar.netlify.app",
-    githubUrl:
-      "https://github.com/johnfernandis1999/restaurant.git",
+    githubUrl: "https://github.com/johnfernandis1999/restaurant.git",
   },
   {
-    id: 1,
-    title: "Singer portfolio ",
-    image: "./Currency-Converter.png",
+    id: 3,
+    title: "Iteractive-DashBoard",
+    image: "./dashborad.png",
 
     projectDescription:
-      "Developed a responsive portfolio website for a singer.Implemented seamless navigation with React Router.Created custom components for biography, discography, events, and media sections.Integrated contact forms and social media links.Optimized for mobile devices and cross-browser compatibility.",
+      "Real-time data visualization with interactive charts and graphs.Filter and sort options for deeper data analysis.Customizable widgets for personalized user experience.",
     stack: [
       { id: 1, tech: "React" },
-      { id: 2, tech: "React Router" },
+      { id: 2, tech: "Sass" },
+      { id: 3, tech: "Firebase" },
     ],
-    liveUrl: "https://mr-fernandes.vercel.app/",
-    githubUrl:
-      "https://mr-fernandes.vercel.app/",
+    liveUrl: "https://admin-panel-navy-rho.vercel.app/",
+    githubUrl: "https://github.com/johnfds-8/admin-panel.git",
   },
 ];
 

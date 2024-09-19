@@ -47,7 +47,6 @@ const Hero = () => {
                   <img src="./bootstrap.svg" alt="tailwindcss" width={30} />
                   <img src="./javascript.svg" alt="js" width={30} />
                   <img src="./react.svg" alt="react" width={30} />
-                  <img src="./redux.svg" alt="python" width={30} />
                 </div>
               </div>
               
