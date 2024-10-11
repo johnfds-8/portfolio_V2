@@ -42,17 +42,15 @@ export const projectData = [
     liveUrl: "https://admin-panel-navy-rho.vercel.app/",
     githubUrl: "https://github.com/johnfds-8/admin-panel.git",
   },
+
+  {
+    id: 3,
+    title: "Social Media",
+    image: "./social-media.png",
+
+    projectDescription: "",
+    stack: [{ id: 1, tech: "React" }],
+    liveUrl: "https://social-media-one-phi.vercel.app/",
+    githubUrl: "https://github.com/johnfds-8/social-media.git",
+  },
 ];
-
-
-
-
-
-
-
-
-
-
-
-
-
